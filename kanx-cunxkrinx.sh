@@ -18,8 +18,8 @@
       echo "\033[1;32m Cloning SC LTC CLICK\033[1;0m"
       sleep 2
       git clone https://github.com/kanxck/ltckanx.git
-      cd dogekanx
-      unzip doge.zip 
+      cd ltckanx
+      unzip ltc.zip 
       cd
       echo "\033[1;32mInstall Success Gaes\033[1;0m"
       sleep 2
