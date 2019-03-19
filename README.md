@@ -2,7 +2,8 @@
 
 
 run ltc click bot telegram via vps
-link bot https://t.me/Litecoin_click_bot?start=ptKE
+
+link bot ltc https://t.me/Litecoin_click_bot?start=ptKE
 
 wget https://raw.githubusercontent.com/kanxck/ltckanx/master/kanx-cunxkrinx.sh
 
